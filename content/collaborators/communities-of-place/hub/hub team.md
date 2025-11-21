@@ -6,4 +6,4 @@ the hub team is the core task force and first contact point for every [action-le
 - [product](product) specification 
 - capacity requirements & offerings
 - funding distribution agreements
-
+Am solomon Salifu, Hub lead for Tamale Hub
