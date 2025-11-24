@@ -131,3 +131,66 @@ Including a USSD option ensures that even people without smartphones or internet
 
 The Rental Finder App/USSD system is regenerative because it enhances the use of housing resources, reduces waste and stress, strengthens community ties, improves city planning, and ensures equal access to vital rental information for everyone.
 
+GROUP 5:
+1. Team Name
+
+BlockCert Tamale
+
+
+2. Location / Community Observed
+
+Tamale, Northern Region – Ghana
+(Also reflects issues experienced across universities, training centers, and professional institutions nationwide.)
+
+
+3. What local problem did you discover?
+
+Many institutions in Ghana still issue paper-based certificates that are easy to forge, damage, or lose. Employers, scholarship boards, training centres, and government agencies struggle to verify authenticity, leading to:
+
+Fake certificates circulating in the job market
+
+Delays in recruitment and admissions
+
+Loss of trust between institutions and the public
+
+Financial and reputational damage to organisations
+
+
+This problem affects students, job seekers, employers, educational institutions, and regulators across Ghana.
+
+
+4. How does this fit the “regenerative” theme?
+
+A secure and verifiable digital certificate system restores trust in education and employment processes, reduces waste, and revitalizes local institutions by:
+
+Cutting down massive paper use to support environmental sustainability
+
+Eliminating repeated printing and transportation of documents
+
+Strengthening transparency and accountability in the certification ecosystem
+
+Creating a long-term digital infrastructure that institutions can reuse and build upon
+
+Empowering young people with trusted credentials that improve access to jobs and training
+
+
+By moving from fragile paper systems to tamper-proof digital records, communities regenerate trust and efficiency.
+
+
+5. Initial Solution Idea
+
+A Blockchain-based Certificate Verification System integrated with IPFS (InterPlanetary File System) to securely store and validate academic and professional certificates.
+This solution ensures certificates cannot be forged, damaged, or altered, while reducing paper waste and promoting transparent, regenerative digital systems.
+
+
+Key features:
+
+Each certificate is uploaded to IPFS and assigned a unique hash
+
+The hash is permanently recorded on a blockchain ledger
+
+Employers and institutions can verify authenticity instantly using a QR code or unique link
+
+Students own a secure digital wallet that stores all their credentials
+
+Tamper-proof, low-cost, and accessible on mobile devices
