@@ -25,14 +25,14 @@
             "id": "b9f019b61c61a306",
             "type": "leaf",
             "state": {
-              "type": "split-diff-view",
+              "type": "markdown",
               "state": {
-                "aFile": "content/collaborators/communities-of-place/hub/Team Rental Finder App/Rental finder.md",
-                "bFile": "content/collaborators/communities-of-place/hub/Team Rental Finder App/Rental finder.md",
-                "aRef": ""
+                "file": "content/collaborators/communities-of-place/hub/Team Rental Finder App/Rental finder.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "diff",
-              "title": "Diff: Rental finder"
+              "icon": "lucide-file",
+              "title": "Rental finder"
             }
           }
         ],
@@ -197,8 +197,8 @@
   },
   "active": "b9f019b61c61a306",
   "lastOpenFiles": [
-    "content/collaborators/communities-of-place/hub/Team Smart Hatch/Untitled.md",
     "content/collaborators/communities-of-place/hub/Team Rental Finder App/Rental finder.md",
+    "content/collaborators/communities-of-place/hub/Team Smart Hatch/Untitled.md",
     "content/collaborators/communities-of-place/hub/Team Rental Finder App",
     "content/collaborators/communities-of-place/hub/index.md",
     "content/collaborators/communities-of-place/hub/hub team.md",
