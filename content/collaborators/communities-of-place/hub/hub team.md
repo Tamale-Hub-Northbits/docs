@@ -11,22 +11,7 @@ TAMALE-HUB)NORTHBITS) PROJECTS:
 1) GROUP 1 
 ## Team Name
 
-SmartHatch
-2. Location/Community Observed
 
-Tamale Metropolitan Area, Northern Region, Ghana
-
-## 3. Local Problem Discovered
-
-Poultry hatcheries in Tamale still use manual record-keeping for egg batches, incubation data, and chick delivery. This leads to inaccurate records, low transparency, and difficulty verifying chick origin, affecting farmers, hatchery operators, and buyers.
-
-## 4. Fit with 'Regenerative' Theme
-
-Digitizing hatching data restores trust, reduces waste, improves hatch success, and strengthens the local poultry ecosystem. It supports a more transparent, sustainable, and self-improving agricultural system.
-
-## 5. Initial Solution Idea
-
-SmartHatch: A MERN + Cardano blockchain system with a web dashboard for hatcheries and a mobile app for farmers and buyers. It enables tamper-proof records, QR verification, and smart contract-based automated payments.
 
 GROUP 2:
 Team Name WASH-Watch Innovators 
